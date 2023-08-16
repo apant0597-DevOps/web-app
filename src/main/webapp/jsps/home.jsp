@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Home Page</title>
-<link href="images/mylandmarklogo.png" rel="icon">
+<link href="images/gojo.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -30,7 +30,7 @@
 			<p>lorem ipsum dolor amet lorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor ametlorem ipsum dolor.</p>
 		</div>
 	<footer>
-		&copy;2012 Francisco Campos Arias, All Rigts Reserved.
+		TEST APP
 	</footer>
 	<!-- END FOOTER | the footer element is also new to HTML5 -->
 	</div>
@@ -39,7 +39,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		<img src="images/gojo.jpg" alt="" width="150">
 	</span>
 </div>
 <hr>
