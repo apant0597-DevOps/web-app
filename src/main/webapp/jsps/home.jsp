@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Home Page</title>
-<link href="images/gojo.jpg" rel="icon">
+<link href="images/Gojo123.jpg" rel="icon">
 </head>
 </head>
 <body>
@@ -39,7 +39,7 @@
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/gojo.jpg" alt="" width="150">
+		<img src="images/Gojo123.jpg" alt="" width="150">
 	</span>
 </div>
 <hr>
