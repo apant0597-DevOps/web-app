@@ -1,4 +1,4 @@
-
+currentBuild.displayName = "Maven-App-"+currentBuild.number
 pipeline {
     agent any
     tools {
