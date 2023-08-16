@@ -11,6 +11,7 @@ pipeline {
 		sh 'mv target/*.war target/tomcat-app.war'
             }
         }
+    }
     	post {
             success { 
             	echo "This pipeline is successfull!"
@@ -18,5 +19,5 @@ pipeline {
     	    unsuccessful {
             	echo "ISSUE!!!"
             }
-    }
+    	}
 }
