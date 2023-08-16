@@ -8,15 +8,15 @@ pipeline {
         stage('MAVEN BUILD'){
             steps{
                 sh 'mvn clean package'
-				sh 'mv target/*.war target/tomcat-app.war'
+		sh 'mv target/*.war target/tomcat-app.war'
             }
         }
-    post {
-        success { 
-            echo "This pipeline is successfull!"
+    	post {
+            success { 
+            	echo "This pipeline is successfull!"
             }
-    unsuccessful {
-            echo "ISSUE!!!"
+    	    unsuccessful {
+            	echo "ISSUE!!!"
             }
     }
 }
